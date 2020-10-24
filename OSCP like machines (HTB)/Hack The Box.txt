@@ -1,0 +1,46 @@
+Jeeves [Windows]
+Bart   [Windows]
+Tally  [Windows]
+Kotarak [Linux]
+falafel [Linux]
+Devops [Linux]
+Hawk [Linux]
+Netmon [Windows]
+Lightweight [Linux]
+La Casa De Papel [Linux]
+Jail [Linux]
+Safe [Linux]
+Bitlab [Linux]
+Sizzle [Windows]
+Sniper [Windows]
+Control [Windows]
+October [Linux]
+Mango [Linux]
+Nest [Windows]
+Book [Linux]
+Sauna [Windows]
+Cascade [Windows]
+Querier [Windows]
+
+Windows
+
+legacy
+Blue
+Devel
+Optimum
+Bastard
+granny
+Arctic
+grandpa
+silo
+bounty
+jerry
+conceal
+chatterbox
+Forest
+BankRobber
+secnotes
+Bastion
+Buff
+Servmon
+Active
